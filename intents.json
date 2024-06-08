@@ -1,0 +1,15 @@
+{
+  "intents": [
+    {"patterns": ["What is the capital of France?"], "responses": ["Paris"], "tag": "Location"},
+    {"patterns": ["Who wrote 'To Kill a Mockingbird'?"], "responses": ["Harper Lee"], "tag": "Author"},
+    {"patterns": ["How many planets are there in the solar system?"], "responses": ["8"], "tag": "Number"},
+    {"patterns": ["What is the chemical symbol for water?"], "responses": ["H2O"], "tag": "Chemistry"},
+    {"patterns": ["Who painted the Mona Lisa?"], "responses": ["Leonardo da Vinci"], "tag": "Artist"},
+    {"patterns": ["What is the largest mammal?"], "responses": ["Blue Whale"], "tag": "Animal"},
+    {"patterns": ["What is the boiling point of water in Celsius?"], "responses": ["100"], "tag": "Chemistry"},
+    {"patterns": ["What is the tallest mountain in the world?"], "responses": ["Mount Everest"], "tag": "Geography"},
+    {"patterns": ["Who invented the light bulb?"], "responses": ["Thomas Edison"], "tag": "Inventor"},
+    {"patterns": ["What is the currency of Japan?"], "responses": ["Yen"], "tag": "Currency"},
+    {"patterns": ["Who wrote the play 'Romeo and Juliet'?"], "responses": ["William Shakespeare"], "tag": "Author"}
+  ]
+}
